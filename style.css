@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+
+
+.header {
+    height: 100vh;
+    background-color: aquamarine;
+}
+
+.header-title {
+    font-size: 70px;
+    color: white;
+    text-align: center;
+}
